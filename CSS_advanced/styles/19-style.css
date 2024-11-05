@@ -53,7 +53,7 @@ html {
 }
 
 body {
-    color: text-color;
+    color: var(--text-color);
     font-family: var(--font-family-base); 
     font-size: var(--font-size-medium);
     font-weight: var(--font-weight-regular);
@@ -138,7 +138,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-menu {
-    float:right;
+    float: right;
 }
 
 .nav {
@@ -184,7 +184,7 @@ ul.row {
     padding: 0.5rem;
 }
 
-.footer-copyrigth {
+.footer-copyright {
     margin: 0;
     font-size: var(--font-size-small);
     color: var(--text-color);
