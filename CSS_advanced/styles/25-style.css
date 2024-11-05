@@ -97,7 +97,7 @@ a:active {
     padding: var(--button-padding);
     border: var(--button-border);
     font-size: var(--button-font-size);
-    border-color: var(--border-color);
+    color: var(--border-color);
     text-decoration: var(--button-text-decoration);
     
 }
