@@ -56,8 +56,7 @@ a {
     color: color-primary;
     font-family: var(--font-family-title);
     text-transform: var(--section-tagline-transform);
-    font-size: var(--font-weight-bold);
-    text-align: var(--section-header-align);
+    font-weight: var(--font-weight-bold);
 }
 
 h1, h2, h3, h4, h5, h6 {
