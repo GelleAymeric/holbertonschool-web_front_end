@@ -166,13 +166,9 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--nav-item-link-hover);
 }
 
-ul footer {
-    text-align: right;
-}
-
-.ul.row {
+ul.row {
     margin: 0;
-    padding: none;
+    padding: 0;
     list-style: none;
 }
 
@@ -192,4 +188,8 @@ ul footer {
     margin: none;
     font-size: var(--font-size-small);
     color: var(--text-color)
+}
+
+.footer ul {
+    text-align: right;
 }
